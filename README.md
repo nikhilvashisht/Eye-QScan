@@ -5,8 +5,10 @@ An app made in flutter which detects the severity of Diabetic Retinopath in diab
 To use application : 
 1. Clone this repo
 2. Run the following commands
-   ``` flutter pub get
-       flutter run ```
-3. Open the app on your device
-4. Upload the fundus scan (you can obtain one from your doctor) in the app. Enter your name, age and diabetic type.
-5. Get results and a medical report.
+   ```
+   flutter pub get
+   flutter run
+   ```
+4. Open the app on your device
+5. Upload the fundus scan (you can obtain one from your doctor) in the app. Enter your name, age and diabetic type.
+6. Get results and a medical report.
